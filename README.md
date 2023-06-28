@@ -1,0 +1,1 @@
+A simple script to follow very active new Farcaster users.
